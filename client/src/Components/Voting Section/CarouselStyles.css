@@ -1,0 +1,15 @@
+.rec.rec-arrow:disabled {
+    visibility: hidden;
+}
+
+.rec.rec-arrow{
+    background-color: #094BAD;
+    color: #fff;
+    opacity: 0.38;
+}
+
+.rec.rec-arrow:hover:enabled,
+.rec.rec-arrow:focus:enabled{
+    background-color:#094BAD;
+    opacity: 1;
+}
